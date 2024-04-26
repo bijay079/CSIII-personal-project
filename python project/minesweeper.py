@@ -1,6 +1,3 @@
-# Python Version 2.7.3
-# File: minesweeper.py
-
 from tkinter import *
 from tkinter import messagebox as tkMessageBox
 from collections import deque
